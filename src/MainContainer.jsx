@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Blue from "./components/Blue";
 import Red from "./components/Red";
 import Green from "./components/Green";
-import Home from "./components/Home.Jsx";
+import Home from "./components/Home";
 
 function MainContainer() {
   return (
